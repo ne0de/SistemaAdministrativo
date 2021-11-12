@@ -7,5 +7,3 @@ Simulación simple de circuitos administrativos de una empresa.
 
 ## Circuito de Compras
 
-## Circuito de Compras
-
